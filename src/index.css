@@ -1,0 +1,21 @@
+.App{
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cards {
+  height: 40vh;
+  width: 10vw;
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0 0 2px black;
+  margin: 1.5rem;
+}
+
+.title {
+  background-color: white;
+  border: none;
+  height: 20%;
+  padding: 19px;
+  font-weight: 100;
+}
